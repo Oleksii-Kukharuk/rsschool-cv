@@ -11,25 +11,22 @@ strong and cohesive team and eager to grow professionally.
 
 ## CONTACTS
 
-+38 096 990 77 79
-dp300391kap@gmail.com
-[Telegram](https://t.me/iRory)
-[Github](https://github.com/Oleksii-Kukharuk?tab=repositories)
-[Linkedin](https://www.linkedin.com/in/oleksii-kukharuk/)
-Ready to relocate - Temporary in Poland
+-+38 096 990 77 79
+-dp300391kap@gmail.com -[Telegram](https://t.me/iRory) -[Github](https://github.com/Oleksii-Kukharuk?tab=repositories) -[Linkedin](https://www.linkedin.com/in/oleksii-kukharuk/)
+-Ready to relocate - Temporary in Poland
 
 ## HARDSKILLS
 
-**HTML5/CSS3/SASS**
-**JavaScript**
-**React**
-**Redux**
-**Rest API**
-**MongoDB**
-**WebPack / Parcel**
-**GIT**
-**Node.js**
-TypeScript - in proces
+**-HTML5/CSS3/SASS**
+**-JavaScript**
+**-React**
+**-Redux**
+**-Rest API**
+**-MongoDB**
+**-WebPack / Parcel**
+**-GIT**
+**-Node.js**
+-TypeScript - in proces
 
 ## EDUCATION
 
