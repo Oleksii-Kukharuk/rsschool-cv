@@ -2,23 +2,23 @@
 
 FULLSTACK developer
 
-## P R O F I L E I N F O
+## PROFILE INFO
 
 I'm looking for a Front-end Developer position within successful company. I
 would like to obtain valuable experience, apply my knowledge and contribute to
 the project and deepen my skills in the front-end field. I would like to work in a
 strong and cohesive team and eager to grow professionally.
 
-## C O N T A C T S
+## CONTACTS
 
 +38 096 990 77 79
 dp300391kap@gmail.com
-[Telegram] (https://t.me/iRory)
-[Github] (https://github.com/Oleksii-Kukharuk?tab=repositories)
-[Linkedin] (https://www.linkedin.com/in/oleksii-kukharuk/)
+[Telegram](https://t.me/iRory)
+[Github](https://github.com/Oleksii-Kukharuk?tab=repositories)
+[Linkedin](https://www.linkedin.com/in/oleksii-kukharuk/)
 Ready to relocate - Temporary in Poland
 
-## H A R D S K I L L S
+## HARDSKILLS
 
 **HTML5/CSS3/SASS**
 **JavaScript**
@@ -31,7 +31,7 @@ Ready to relocate - Temporary in Poland
 **Node.js**
 TypeScript - in proces
 
-## E D U C A T I O N
+## EDUCATION
 
 Full-stack developer
 GO IT Academy 2022 - 2023  
@@ -40,7 +40,7 @@ Certificate ID - 13169
 Bachelor of Farm Engineering
 Dnipro State Agrarian and Economic University - 2008 - 2012
 
-## W O R K E X P E R I E N C E
+## WORK EXERIENCE
 
 **Country Manager** at Röhren- und Pumpenwerk Bauer GmbH
 Jan 2020 - present
@@ -57,7 +57,7 @@ Resposobilities:
 Department development
 Sales agricultural machinery
 
-## S O F T S K I L L S
+## SOFT SKILLS
 
 Cheerful person who easily builds bonds with different people,
 I'm also a proactive person who is focused on the
@@ -68,16 +68,16 @@ I'm not afraid of taking responsibility and I stay
 focused in stressful situations.
 Fast learner, keen on learning new technologies.
 
-## L A N G U A G E S
+## LANGUAGES
 
 **Ukrainian** Native
 **English Upper** Intermediate
 **Russian Native**
 
-## P R O J E C T E X P I R I E N C E
+## PROJECT EXPIRIENCE
 
-**[So Yummy]** (https://eddy-hub19.github.io/soyummy/welcome)
-[Github link] (https://github.com/Eddy-hub19/soyummy)
+**[So Yummy](https://eddy-hub19.github.io/soyummy/welcome)**
+[Github link](https://github.com/Eddy-hub19/soyummy)
 This web application provides a vast collection of easy-to-follow recipes
 from various cuisines and occasions. Users can search for specific dishes or
 browse by category, ingredients, and save their favorite recipes. It also allows
@@ -91,8 +91,8 @@ Responsibilities:
 - Other minor fixes during the work on the project.
   **Technology stack: Node.js, MongoDB, JS, React, Redux Toolkit**
 
-**[Filmoteka]** (https://am1007.github.io/filmoteka_PG-13/)
-[Github link] (https://github.com/AM1007/filmoteka_PG-13)
+**[Filmoteka](https://am1007.github.io/filmoteka_PG-13/)**
+[Github link](https://github.com/AM1007/filmoteka_PG-13)
 A web application that allows to see movie trends and helps find movies
 according to preferences.
 Responsibilities:
@@ -101,8 +101,8 @@ Responsibilities:
 - At this project I also took the role of Scrum Master and successful fulfill it.
   **Technology stack: HTML, SASS, JS, REST API, AJAX, Parcel**
 
-**[Ice Cream]** (https://oleksii-kukharuk.github.io/ninjas-project/)
-[Github link] (https://github.com/Oleksii-Kukharuk/ninjas-project)
+**[Ice Cream](https://oleksii-kukharuk.github.io/ninjas-project/)**
+[Github link](https://github.com/Oleksii-Kukharuk/ninjas-project)
 Landing page for ice cream selling business.
 Responsibilities:
 
