@@ -18,7 +18,7 @@ strong and cohesive team and eager to grow professionally.
 - [Linkedin](https://www.linkedin.com/in/oleksii-kukharuk/)
 - Ready to relocate - Temporary in Poland
 
-## HARDSKILLS
+## HARD SKILLS
 
 - **HTML5/CSS3/SASS**
 - **JavaScript**
